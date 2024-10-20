@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.storyContainer{
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+    width: 80%;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black
+
+}
+
+.description{
+    color: rgb(181, 179, 179)
+}
